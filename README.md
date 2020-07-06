@@ -3,6 +3,7 @@ Course website for Python for Data Analysis at PNI for PNI summer students.
 
 ---
 # Lecture Schedule
+> Does this do anything
 - [Lecture 1]
 - [Lecture 2]
 - [Lecture 3]
