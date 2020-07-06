@@ -3,8 +3,8 @@ Course website for Python for Data Analysis at PNI for PNI summer students.
 
 ---
 # Lecture Schedule
-> Does this do anything
-- [Lecture 1](<a href="./slides/lecture1.pdf">test</a>)
+
+- Lecture 1: Getting familiar with numpy. <a href="./slides/lecture1.pdf">slides</a>, <a href="./code/lecture1.zip">code</a>
 - [Lecture 2]
 - [Lecture 3]
 - [Lecture 4]
