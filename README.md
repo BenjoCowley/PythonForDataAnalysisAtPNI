@@ -4,7 +4,7 @@ Course website for Python for Data Analysis at PNI for PNI summer students.
 ---
 # Lecture Schedule
 
-- Lecture 1: Getting familiar with numpy.            <a href="./slides/lecture1.pdf">slides</a>, <a href="./code/lecture1.zip">code</a>
+- Lecture 1: Getting familiar with numpy.            <a href="./slides/lecture1.pdf">slides.pdf</a>, <a href="./code/lecture1.zip">code.zip</a>
 - <div class="text-red mb-2">Lecture 2</div>
 - Lecture 3
 - Lecture 4
