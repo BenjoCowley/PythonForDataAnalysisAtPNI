@@ -11,6 +11,7 @@ Course website for Python for Data Analysis at PNI for PNI summer students.
 	- [notebook](https://colab.research.google.com/drive/1I34ImjoExER6mzSdovHtXPuRomwnoXzy?usp=sharing)
 	- [lecture (video)](https://princeton.zoom.us/rec/share/weMyJojJ-GxOWonx82LhdIERQoTfT6a8gylN_PZcyIUuc2dvw83iUqWQKPWp7n8?startTime=1594144826000)
 - Lecture 3
+	- <a href="./homework/homework1/Homework1.ipynb">Homework 1 notebook</a>, <a href="./homework/homework1/Homework1data.zip">data.zip</a>
 - Lecture 4
 - Lecture 5
 - Lecture 6
