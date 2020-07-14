@@ -8,7 +8,7 @@ Course website for Python for Data Analysis at PNI for PNI summer students.
 	- <a href="./slides/lecture1.pdf">Slides.pdf</a> 
 	- [Lecture](https://princeton.zoom.us/rec/share/-N1VF--h3UhOUrfq70XOdr8TPpreeaa8h3JK_qYJxEbToUZLOQXE6lBrCX4s7eCZ) 
 - Lecture 2: Pictures of variance
-	- [Notebook: linear regression 1 independent, 1 dependent](https://colab.research.google.com/drive/1I34ImjoExER6mzSdovHtXPuRomwnoXzy?usp=sharing)
+	- [Notebook: linear regression, 1 independent, 1 dependent](https://colab.research.google.com/drive/1I34ImjoExER6mzSdovHtXPuRomwnoXzy?usp=sharing)
 	- [Lecture](https://princeton.zoom.us/rec/share/weMyJojJ-GxOWonx82LhdIERQoTfT6a8gylN_PZcyIUuc2dvw83iUqWQKPWp7n8?startTime=1594144826000)
 - Lecture 3: Regression with multiple variables
 	- [Notebook: linear regression, 1 independent 2 dependent](https://colab.research.google.com/drive/1lZXbqYSHSJesn4upPVrLBGJSaNDab6c0?usp=sharing)
