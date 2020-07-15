@@ -21,7 +21,9 @@ Course website for Python for Data Analysis at PNI for PNI summer students.
 - Lecture 5: Coding breakout sessions
 	- [Lecture (abbreviated): statistical aspects of ANOVA](https://drive.google.com/file/d/1KBmUUFlGKjY7r6A42Vn5hg17_M54v3Ac/view?usp=sharing) 
 	- [Homework 2 notebook](https://colab.research.google.com/drive/1Af2olbXdHIQ1k6xcRl4Xtqo2hZ7ATLsn?usp=sharing)
-- Lecture 6
+- Lecture 6: Regression and classification
+	- <a href="./slides/lecture6.pdf">slides.pdf</a>
+	- [Notebook: Linear regression and logistic regression] (./code/Lecture6.)
 - Lecture 7
 - Lecture 8
 - Lecture 9
