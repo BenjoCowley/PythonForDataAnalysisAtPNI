@@ -24,8 +24,10 @@ Course website for Python for Data Analysis at PNI for PNI summer students.
 - Lecture 6: Regression and classification
 	- <a href="./slides/lecture6.pdf">slides.pdf</a>
 	- <a href="./code/Lecture6.ipynb">Colab Notebook</a>
-	- [Lecture](https://princeton.zoom.us/rec/share/3_NNBYGt7m5IUqPMynGPUY4lPp3Leaa81yMd_foEzx5KOibyd190GPRFrwrqUFKb )
-- Lecture 7
+	- [Lecture](https://princeton.zoom.us/rec/share/3_NNBYGt7m5IUqPMynGPUY4lPp3Leaa81yMd_foEzx5KOibyd190GPRFrwrqUFKb?usp=sharing)
+- Lecture 7: Classification and reporting test accuracy
+	- <a href="./slides/lecture7.pdf">slides.pdf</a>
+	- <a href="./code/Lecture7.ipynb">Colab Notebook</a>
 - Lecture 8
 - Lecture 9
 - Lecture 10
