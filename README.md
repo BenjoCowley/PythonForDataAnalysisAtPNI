@@ -28,6 +28,7 @@ Course website for Python for Data Analysis at PNI for PNI summer students.
 - Lecture 7: Classification and reporting test accuracy
 	- <a href="./slides/lecture7.pdf">slides.pdf</a>
 	- <a href="./code/Lecture7.ipynb">Colab Notebook</a>
+	- [Lecture](https://princeton.zoom.us/rec/share/35d2d5jOyyBIZ6vCq1-BRYx9JN_mT6a81yJK8qcIxUnKUxFBOTSuT_pzz45Qc3Mb)
 - Lecture 8
 - Lecture 9
 - Lecture 10
