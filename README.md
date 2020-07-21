@@ -32,6 +32,7 @@ Course website for Python for Data Analysis at PNI for PNI summer students.
 - Lecture 8
 	- <a href="./slides/lecture8.pdf">slides.pdf</a>
 	- <a href="./code/Lecture8.ipynb">Colab Notebook</a>
+	- [Lecture](https://princeton.zoom.us/rec/share/vchkIarx92xJbpHG1nz8AokzNJ-6eaa8hiUZ-vdYxB6F513M3fJT62l8e0rhWnJs)
 - Lecture 9
 - Lecture 10
 - Class project/Final
