@@ -36,7 +36,7 @@ Course website for Python for Data Analysis at PNI for PNI summer students.
 - Lecture 9: PCA and tSNE  (Ben)
 	- <a href="./slides/lecture9.pdf">slides.pdf</a>
 	- <a href="./code/Lecture9.ipynb">Colab Notebook</a>
-	- [Lecture]()
+	- [Lecture](https://princeton.zoom.us/rec/share/-5ZTA-iv0mpJSM_B8EDcWIwPMK-8eaa8gSgf_ftczErZi49jktFzNqyNjbPDXCAS)
 - Lecture 10
 - Class project/Final
 
