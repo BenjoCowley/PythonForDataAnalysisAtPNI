@@ -41,7 +41,7 @@ Course website for Python for Data Analysis at PNI for PNI summer students.
 	- <a href="./slides/lecture10.pdf">slides.pdf</a>
 	- <a href="./code/Lecture10.ipynb">Colab Notebook</a>
 	- [Lecture]()
-- Class project/Final
+- Class project
 	- <a href="./slides/class_project.pdf">slides.pdf</a>
 	- <a href="./code/ClassProject.ipynb">Colab Notebook</a>
 	- Data: <a href="http://bcowley.mycpanel.princeton.edu/adv_python/class_project/images_responses.zip">images_responses.zip</a>
