@@ -7,7 +7,7 @@ Course website for Python for Data Analysis at PNI for PNI summer students.
 - Lecture 1: How neural networks use matrix multiplication (Greg)
 	- <a href="./slides/lecture1.pdf">Slides.pdf</a> 
 - Lecture 2: Pictures of variance (Greg)
-	- [Notebook: linear regression, 1 independent, 1 dependent](./code/Lecture2_visual_variance.ipynb)
+	- [Notebook: linear regression, 1 independent, 1 dependent](./code/Lecture2_visual_variance_1ind_1dep.ipynb)
 - Lecture 3: Pictures of regression - with multiple variables (Greg)
 	- [Notebook: linear regression, 1 independent 2 dependent](./code/Lecture3_visual_variance_1ind_2dep.ipynb)
 	- [Notebook: linear regression, 2 independent 1 dependent](./code/Lecture3_visual_variance_2ind_1dep.ipynb)
